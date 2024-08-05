@@ -8,8 +8,3 @@
 - Sending emails in the contact section.
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
-
-<<<<<<< HEAD
-
-=======
->>>>>>> f30d73c292346e2f3796703fd97eaf558c881727
